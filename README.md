@@ -11,10 +11,11 @@ This repository will have the code for different intelligent transportation syst
 
 ## ITS Project Descriptions
 
-###Webcams Computer Vision: Improved Travel Information
-The Volpe Center is investigating a modeling method that will detect and count vehicles in the entrance station lines. This method will be implemented to create a dataset of south entrance station wait times for Grand Canyon. 
+### Webcams Computer Vision: Improved Travel Information
+The Volpe Center is investigating a modeling method that will detect and count vehicles in the entrance station lines. This method will be implemented to create a dataset of south entrance station wait times for Grand Canyon. Currently Grand Canyon maintains a [webcam at South Entrance](https://www.nps.gov/media/webcam/view.htm?id=CCAF675F-C0B9-826E-0A21779165AE01EF). 
 
-This data can be used to generate 
+Volpe will be creating a vehicle detection model using computer vision that will search for cars in line at the south entrance lanes. Once finished, this process will run periodically to create a dataset of wait times at the south entrance. 
+
 
 ### GTFS: Improved Travel Information
 
