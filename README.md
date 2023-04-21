@@ -16,7 +16,7 @@ The Volpe Center is investigating a modeling method that will detect and count v
 
 This data can be used to generate 
 
-###GTFS: Improved Travel Information
+### GTFS: Improved Travel Information
 
 Currently, there are no transit route options if a visitor is using navigation apps. There is information on [NPS.gov](https://www.nps.gov/grca/planyourvisit/shuttle-buses.htm), but this hasn't been digitally transformed into a usable GTFS for the 4 shuttle routes. 
 
